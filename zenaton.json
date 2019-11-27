@@ -1,0 +1,20 @@
+{
+  "name": "Beer Picker",
+  "description": "An awesome workflow that pick a random user.",
+  "workflowName": "BeerPicker",
+  "connectors": [11],
+  "onlineEditor": {
+    "input": ["general"],
+    "events": [
+      {
+        "name": "beer_picker_event",
+        "data": [
+          {
+            "deal_name": "awesome cheese cake",
+            "email": "friend_1@example.com"
+          }
+        ]
+      }
+    ]
+  }
+}
