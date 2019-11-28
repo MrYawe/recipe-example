@@ -1,13 +1,14 @@
 {
-  "name": "Beer Picker",
+  "name": "Where to lunch",
   "description": "An awesome workflow that pick a random user.",
-  "workflowName": "BeerPicker",
+  "logo": "https://avatars.slack-edge.com/2019-10-01/781324122055_1383599135d1f4df2af8_72.png",
+  "workflowName": "WhereToLunch",
   "connectors": [11],
   "onlineEditor": {
     "input": ["general"],
     "events": [
       {
-        "name": "beer_picker_event",
+        "name": "where_to_lunch_event",
         "data": [
           {
             "deal_name": "awesome cheese cake",
