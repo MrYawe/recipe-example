@@ -1,6 +1,6 @@
 {
   "name": "Where to lunch",
-  "description": "An awesome workflow that pick a random user.",
+  "description": "A simple workflow to organize a vote for where to lunch nearby.",
   "logo": "https://avatars.slack-edge.com/2019-10-01/781324122055_1383599135d1f4df2af8_72.png",
   "workflowName": "WhereToLunch",
   "connectors": [11],
