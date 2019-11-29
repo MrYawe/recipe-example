@@ -3,7 +3,7 @@
   "description": "A simple workflow to organize a vote for where to lunch nearby.",
   "logo": "https://avatars.slack-edge.com/2019-10-01/781324122055_1383599135d1f4df2af8_72.png",
   "workflowName": "WhereToLunch",
-  "connectors": [11],
+  "connectors": ["slack"],
   "onlineEditor": {
     "input": ["general"],
     "events": [
